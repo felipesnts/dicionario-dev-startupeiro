@@ -30,8 +30,8 @@
                 },
                 {
                     "term": "Buildar",
-                    "definition": "",
-                    "exeamples": []
+                    "definition": "Construir, Compilar. Do verbo <i>to build</i>. Ação de construir um artefato a partir de um código-fonte.",
+                    "exeamples": ["Vou buildar o projeto no ambiente de homologação e avisar os QAs."]
                 },
                 {
                     "term": "Bullshitar",
@@ -115,7 +115,7 @@
                 },
                 {
                     "term": "FUpar",
-                    "definition": "",
+                    "definition": "Dar encaminhamento a um plano. Do termo <i>Follow Up</i>.;",
                     "exeamples": []
                 }
             ]
@@ -195,7 +195,7 @@
                 },
                 {
                     "term": "Printar",
-                    "definition": "",
+                    "definition": "Ação de capturar a imagem uma parte ou toda a tela de um dispositivo. Do termo <i>Print Screen</i>.",
                     "exeamples": []
                 }
             ]
@@ -215,7 +215,7 @@
             "terms": [
                 {
                     "term": "Schedular",
-                    "definition": "",
+                    "definition": "Agendar, marcar um evento ou compromisso. Do verbo <i>to Schedule</i>.",
                     "exeamples": []
                 },
                 {
@@ -240,17 +240,17 @@
                 },
                 {
                     "term": "Splitar",
-                    "definition": "",
+                    "definition": "Dividir em partes, baseado num separador ou situação. Do verbo <i>to Split</i>.",
                     "exeamples": []
                 },
                 {
                     "term": "Startar",
-                    "definition": "",
+                    "definition": "Começar, dar início a algo. Do verbo <i>to Start</i>.",
                     "exeamples": []
                 },
                 {
                     "term": "Stopar",
-                    "definition": "",
+                    "definition": "Parar, interromper. Do verbo <i>to Stop</i>.",
                     "exeamples": []
                 }
             ]
