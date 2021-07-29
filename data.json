@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "group": "a",
+            "terms": [
+                {
+                    "term": "Abendar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "b",
+            "terms": [
+                {
+                    "term": "Bindar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Breakevar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Brifar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Buildar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Bullshitar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Bypassar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "c",
+            "terms": [
+                {
+                    "term": "Churnear",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Commitar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "d",
+            "terms": [
+                {
+                    "term": "Deployar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Drivar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Dropar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Debuggar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "e",
+            "terms": [
+                {
+                    "term": "Estopar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "f",
+            "terms": [
+                {
+                    "term": "Flagar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Forecastar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Freelar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "FUpar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "g",
+            "terms": [
+                {
+                    "term": "Groundear",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "h",
+            "terms": [
+                {
+                    "term": "Hardcodear",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "k",
+            "terms": [
+                {
+                    "term": "Killear",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "m",
+            "terms": [
+                {
+                    "term": "Matchar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Mergear / Merjar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Mockupar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "o",
+            "terms": [
+                {
+                    "term": "Overbucar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "p",
+            "terms": [
+                {
+                    "term": "Pivotar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Playbookar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Printar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "r",
+            "terms": [
+                {
+                    "term": "Rolloutar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "s",
+            "terms": [
+                {
+                    "term": "Schedular",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Setar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Shiftar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Skippar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Spinoffar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Splitar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Startar",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Stopar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        },
+        {
+            "group": "t",
+            "terms": [
+                {
+                    "term": "Tagear",
+                    "definition": "",
+                    "exeamples": []
+                },
+                {
+                    "term": "Triggar",
+                    "definition": "",
+                    "exeamples": []
+                }
+            ]
+        }
+    ]
+}
