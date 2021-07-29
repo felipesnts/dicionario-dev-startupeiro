@@ -1,0 +1,1 @@
+# dicionario-dev-startupeiro
