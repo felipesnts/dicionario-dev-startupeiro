@@ -4,9 +4,9 @@
             "group": "a",
             "terms": [
                 {
-                    "term": "Abendar",
+                    "name": "Abendar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -14,34 +14,34 @@
             "group": "b",
             "terms": [
                 {
-                    "term": "Bindar",
+                    "name": "Bindar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Breakevar",
+                    "name": "Breakevar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Brifar",
+                    "name": "Brifar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Buildar",
+                    "name": "Buildar",
                     "definition": "Construir, Compilar. Do verbo <i>to build</i>. Ação de construir um artefato a partir de um código-fonte.",
-                    "exeamples": ["Vou buildar o projeto no ambiente de homologação e avisar os QAs."]
+                    "examples": ["Vou buildar o projeto no ambiente de homologação e avisar os QAs."]
                 },
                 {
-                    "term": "Bullshitar",
+                    "name": "Bullshitar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Bypassar",
+                    "name": "Bypassar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -49,14 +49,14 @@
             "group": "c",
             "terms": [
                 {
-                    "term": "Churnear",
+                    "name": "Churnear",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Commitar",
+                    "name": "Commitar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -64,24 +64,24 @@
             "group": "d",
             "terms": [
                 {
-                    "term": "Deployar",
+                    "name": "Deployar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Drivar",
+                    "name": "Drivar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Dropar",
+                    "name": "Dropar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Debuggar",
+                    "name": "Debuggar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -89,9 +89,9 @@
             "group": "e",
             "terms": [
                 {
-                    "term": "Estopar",
+                    "name": "Estopar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -99,24 +99,24 @@
             "group": "f",
             "terms": [
                 {
-                    "term": "Flagar",
+                    "name": "Flagar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Forecastar",
+                    "name": "Forecastar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Freelar",
+                    "name": "Freelar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "FUpar",
+                    "name": "FUpar",
                     "definition": "Dar encaminhamento a um plano. Do termo <i>Follow Up</i>.;",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -124,14 +124,14 @@
             "group": "g",
             "terms": [
                 {
-                    "term": "Givar",
+                    "name": "Givar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Groundear",
+                    "name": "Groundear",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -139,9 +139,9 @@
             "group": "h",
             "terms": [
                 {
-                    "term": "Hardcodear",
+                    "name": "Hardcodear",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -149,9 +149,9 @@
             "group": "k",
             "terms": [
                 {
-                    "term": "Killear",
+                    "name": "Killear",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -159,19 +159,19 @@
             "group": "m",
             "terms": [
                 {
-                    "term": "Matchar",
+                    "name": "Matchar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Mergear / Merjar",
+                    "name": "Mergear / Merjar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Mockupar",
+                    "name": "Mockupar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -179,9 +179,9 @@
             "group": "o",
             "terms": [
                 {
-                    "term": "Overbucar",
+                    "name": "Overbucar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -189,19 +189,19 @@
             "group": "p",
             "terms": [
                 {
-                    "term": "Pivotar",
+                    "name": "Pivotar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Playbookar",
+                    "name": "Playbookar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Printar",
+                    "name": "Printar",
                     "definition": "Ação de capturar a imagem uma parte ou toda a tela de um dispositivo. Do termo <i>Print Screen</i>.",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -209,9 +209,9 @@
             "group": "r",
             "terms": [
                 {
-                    "term": "Rolloutar",
+                    "name": "Rolloutar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -219,44 +219,44 @@
             "group": "s",
             "terms": [
                 {
-                    "term": "Schedular",
+                    "name": "Schedular",
                     "definition": "Agendar, marcar um evento ou compromisso. Do verbo <i>to Schedule</i>.",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Setar",
+                    "name": "Setar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Shiftar",
+                    "name": "Shiftar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Skippar",
+                    "name": "Skippar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Spinoffar",
+                    "name": "Spinoffar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Splitar",
+                    "name": "Splitar",
                     "definition": "Dividir em partes, baseado num separador ou situação. Do verbo <i>to Split</i>.",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Startar",
+                    "name": "Startar",
                     "definition": "Começar, dar início a algo. Do verbo <i>to Start</i>.",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Stopar",
+                    "name": "Stopar",
                     "definition": "Parar, interromper. Do verbo <i>to Stop</i>.",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         },
@@ -264,14 +264,14 @@
             "group": "t",
             "terms": [
                 {
-                    "term": "Tagear",
+                    "name": "Tagear",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 },
                 {
-                    "term": "Triggar",
+                    "name": "Triggar",
                     "definition": "",
-                    "exeamples": []
+                    "examples": []
                 }
             ]
         }
