@@ -11,6 +11,6 @@
     "nuxt3": "latest",
     "postcss": "^8.3.9",
     "tailwindcss": "^2.2.17",
-    "@nuxt/bridge": "^0.10.0"
+    "@nuxt/kit": "^0.6.4"
   }
 }
